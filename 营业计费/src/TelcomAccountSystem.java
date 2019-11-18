@@ -1,5 +1,5 @@
-package 电信管理系统;
-
+import phone.*;
+import user.*;
 public class TelcomAccountSystem{
 	
 	public static void main(String[] args){
